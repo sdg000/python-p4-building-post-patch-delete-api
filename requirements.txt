@@ -1,0 +1,8 @@
+faker
+flask
+flask-migrate
+flask-sqlalchemy
+importlib-metadata
+importlib-resources
+ipdb
+sqlalchemy-serializer
